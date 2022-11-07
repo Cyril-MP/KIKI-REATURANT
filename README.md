@@ -18,6 +18,6 @@ A `HTML, CSS` Project. Made with ♥ . There are four pages in the website (Home
 1. Text Editor: Atom
 
 
-### Who the project is for?
+### Who the website is for?
 
-The project is for the people who want to get more skilled in HTML & CSS.
+-Selase
