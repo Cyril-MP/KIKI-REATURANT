@@ -30,11 +30,16 @@ h4 {
   font: 50px "Monaco", monospace;
   text-align: center;
 }
+h5{
 
+  font-style: italic;
+  font: 30px "Monaco", monospace;
+  font: 80px "Monaco", monospace;
+}
 hr {
   border-style: double;
   border-color: white;
-  border-width: 60px;
+  border-width: 40px;
   width: 70%
 }
 
@@ -50,9 +55,10 @@ hr {
   background-color: inherit;
 }
 
-.back{
+.back {
   position: absolute;
 }
+
 .mid {
   font-weight: bold;
   letter-spacing: 1px;
