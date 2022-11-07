@@ -20,4 +20,4 @@ A `HTML, CSS` Project. Made with ♥ . There are four pages in the website (Home
 
 ### Who the website is for?
 
--Selase
+- Cyril Selase
